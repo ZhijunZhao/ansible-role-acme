@@ -1,0 +1,3 @@
+---
+- name: Print in console
+  command: echo "hello world from zhijzhao role task"
