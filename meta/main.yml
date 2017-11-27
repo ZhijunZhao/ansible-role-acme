@@ -1,6 +1,6 @@
 galaxy_info:
   author: ZhijunZhao
-  description: latest Azure modules for provision Azure resources
+  description: latest Azure modules for provisioning Azure resources
   company: Microsoft
 
   # If the issue tracker for your role is not on github, uncomment the

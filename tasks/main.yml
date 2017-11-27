@@ -1,3 +1,4 @@
 ---
-- name: Print in console
-  command: echo "hello world from zhijzhao role task"
+# Install Azure Python SDK required by modules.
+- pip:
+    requirements: ../files/requirements.txt
